@@ -1,0 +1,141 @@
+{
+  "main": {
+    "name": "Ezhilarasu",
+    "occupation": "Software Developer @Yaali Bizappln Solutions",
+    "description": "Software Developer with 3+ years of experience. I enjoy building everything from small business sites to rich interactive web apps. Specializes in Java, Node, and Database technologies",
+    "image": "DP_Ezhil.jpg",
+    "bio": "My name is Ezhilarasu, A self-taught programmer who always try to learn something new and interesting. And pretty comfortable with Java, Node JS, Express, React",
+    "contactmessage": "Get in touch with me to receive further details, get coached or anything else.",
+    "email": "ezhil9841@gmail.com",
+    "phone": "+91 9791081330",
+    "address": {
+      "street": "No: 6, Venkateswara nagar, Velachery",
+      "city": "Chennai",
+      "state": "Tamilnadu",
+      "zip": "600042"
+    },
+    "website": "http://www.timbakerdev.com",
+    "resumedownload": "https://drive.google.com/file/d/1VYl_a6J2wEFnlndxS6W-NE-5UyjyXsOI/view?usp=sharing",
+    "social": [
+      {
+        "name": "facebook",
+        "url": "https://www.facebook.com/ezhil.arasu.587",
+        "className": "fa fa-facebook"
+      },
+      {
+        "name": "linkedin",
+        "url": "https://www.linkedin.com/in/ezhil-arasu-32730a11b/",
+        "className": "fa fa-linkedin"
+      },
+      {
+        "name": "instagram",
+        "url": "https://www.instagram.com/e_z_h_i_l_9_6/",
+        "className": "fa fa-instagram"
+      },
+      {
+        "name": "github",
+        "url": "https://github.com/Ezhilarasu1330",
+        "className": "fa fa-github"
+      }
+    ]
+  },
+  "resume": {
+    "skillmessage": "",
+    "education": [
+      {
+        "school": "Anna University",
+        "degree": "Bachelor of Technology (Information Technology)",
+        "graduated": "April 2017",
+        "description": "Here I took my Bachelors of Computer Science with a Software Engineering Specialty and achieved a much more thorough education in the underlying theory, concepts, and science behind more complex programming. It was here that I discovered my passion for scalable application programming (web and mobile), the security behind computer and application systems, and found that I have a knack for understanding complex algorithms."
+      }
+    ],
+    "work": [
+      {
+        "company": "Yaali Bizappln Solutions",
+        "title": "Software Developer",
+        "years": "August 2017 - Present",
+        "description": ""
+      }
+    ],
+    "skills": [
+      {
+        "name": "Java",
+        "level": "100%"
+      },
+      {
+        "name": "Node JS",
+        "level": "100%"
+      },
+      {
+        "name": "My Sql & Postgres",
+        "level": "100%"
+      },
+      {
+        "name": "Mongo DB",
+        "level": "100%"
+      },
+      {
+        "name": "PHP",
+        "level": "40%"
+      },
+      {
+        "name": "HTML5",
+        "level": "80%"
+      },
+      {
+        "name": "JavaScript",
+        "level": "70%"
+      },
+      {
+        "name": "React JS",
+        "level": "55%"
+      },
+      {
+        "name": "CSS",
+        "level": "30%"
+      }
+    ]
+  },
+  "portfolio": {
+    "projects": [
+      {
+        "title": "Yaali Inventory",
+        "category": "Technologies Used : (Java, Spring Boot, COQL, Postgres)",
+        "image": "yaali_inventory.png",
+        "url": ""
+      },
+      {
+        "title": "RippleHire",
+        "category": "Technologies Used : (Java, Spring Boot, Hibernate, Mysql, Backbone JS)",
+        "image": "ripplehire_logo.jpg",
+        "url": ""
+      },
+      {
+        "title": "Syntoniq",
+        "category": "Built with MEAN (MongoDB, ExpressJS, Angular, NodeJS)",
+        "image": "syntoniq_logo.jpg",
+        "url": ""
+      },
+      {
+        "title": "Best Access Doors",
+        "category": "Technologies Used : (Amazon MWS, Java, Spring Boot, Data JPA, Mysql, Quartz Scheduler)",
+        "image": "amazon_mws.jpg",
+        "url": ""
+      },
+      {
+        "title": "React Portfolio",
+        "category": "Built with MERN (MongoDB, ExpressJS, React, NodeJS)",
+        "image": "react-redux.jpg",
+        "url": ""
+      }
+    ]
+  },
+  "testimonials": {
+    "testimonials": [
+      {
+        "text": "I have had the opportunity to work with Tim on multiple occasions which has always been a pleasure. He is driven and motivated with a consistently positive attitude. Tim excels at communicating with others and is always willing to work hard until he solves the problem at hand.",
+        "user": "Mukesh Kumar - Frontend Developer at Yaali Bizappln Solutions"
+      }
+    ]
+  }
+}
